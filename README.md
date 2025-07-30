@@ -1,4 +1,3 @@
-
 ## 💻 Tecnologias Utilizadas
 
 - HTML5
